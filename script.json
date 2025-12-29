@@ -12,6 +12,7 @@
       "snitch",
       "demoninfo",
       "marionette",
+      "Normal Game of Clocktower_25",
       "preacher",
       "lilmonsta",
       "wizard",
@@ -26,6 +27,7 @@
     "otherNight": [
       "dusk",
       "wraith",
+      "Normal Game of Clocktower_25",
       "preacher",
       "wizard",
       "lycanthrope",
@@ -60,6 +62,27 @@
   "hatter",
   "snitch",
   "puzzlemaster",
+  {
+    "id": "Normal Game of Clocktower_25",
+    "edition": "Normal Game of Clocktower",
+    "name": "Clown",
+    "firstNightReminder": "The Clown gains a new ability. If necessary, mark a player as poisoned.",
+    "otherNightReminder": "The Clown gains a new ability. If necessary, mark a player as poisoned.",
+    "team": "minion",
+    "reminders": [
+      "Poisoned"
+    ],
+    "setup": false,
+    "ability": "Each night, gain a good character's ability until dusk. If that character is in play, they are poisoned.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.NormalGameofClocktower/main/token/Normal%20Game%20of%20Clocktower_25/0.png",
+      "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.NormalGameofClocktower/main/token/Normal%20Game%20of%20Clocktower_25/1.png"
+    ],
+    "flavor": "*Honk*"
+  },
   "wizard",
   "marionette",
   "wraith",

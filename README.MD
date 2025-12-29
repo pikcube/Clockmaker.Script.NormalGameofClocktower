@@ -18,6 +18,7 @@
 * Hatter: If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.
 * Snitch: Each Minion gets 3 bluffs.
 * Puzzlemaster: 1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info.
+* Clown: Each night, gain a good character's ability until dusk. If that character is in play, they are poisoned.
 * Wizard: Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.
 * Marionette: You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]
 * Wraith: You may choose to open your eyes at night. You wake when other evil players do.
